@@ -13,7 +13,7 @@ public class DB {
                  
          final String url = "jdbc:mysql://localhost:3306/meetcircle";
          final String userName = "root";
-         final String password = "Rahulpalchhetri@123";
+         final String password = "Vishalkumar@123";
          
          con = DriverManager.getConnection(url,userName,password);
          statement = con.createStatement();
